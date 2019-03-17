@@ -1,0 +1,14 @@
+.body-contain form label {
+    font-size: 20px;
+    line-height: 1.4em;
+    color: rgb(102, 102, 102);
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+.body-contain form button {
+    background-color: rgb(70, 160, 168);
+    border-radius: 2px;
+    padding: 10px 25px;
+    font-size: 18px;
+}

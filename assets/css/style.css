@@ -1,0 +1,94 @@
+body {
+    background: url(../image/concrete_seamless.png);
+    background-color: #EFEFEF;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+a, p {
+    font-family: Arial, "Helvetica Neue";
+    font-size: 19px;
+    color: #777;
+    line-height: 1.8em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.head {
+    background-color: #fff;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 40px;
+}
+
+.body-contain {
+    margin-top: 130px;
+}
+
+.foot-contain {
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    line-height: 90px;
+    font-size: 12px;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+nav .navbar-header .logo {
+    padding: 35px 40px 55px 40px;
+    background-color: #4aaaa5;
+    color: #fff;
+}
+
+nav .navbar-header .logo:any-link {
+    background-color: #4aaaa5;
+    color: #fff;
+}
+
+nav ul {
+    padding: 20px 0;
+}
+
+nav .hamburg {
+    margin-top: 28px;
+}
+
+nav .navbar-header a {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.container .left-column, .right-column {
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.container .left-column h2, .container .right-column h3{
+    color: #4aaaa5;
+    font-weight: bold;
+}
+
+.container .left-column {
+    padding: 10px 30px 20px 30px;
+}
+
+.container .left-column hr {
+    height: 1.2px;
+    background-color: rgb(126, 126, 126);
+}
+
+.container .right-column {
+    background-color: white;
+    padding: 5px 10px 30px 10px;
+}
+
+.container .right-column img {
+    width: 60px;
+}
+
+
+
+

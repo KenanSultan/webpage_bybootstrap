@@ -1,0 +1,21 @@
+.body-contain .image {
+    position: relative;
+    display: inline-block;
+
+}
+
+.body-contain .image img {
+    width: 300px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.body-contain .image .upwrite {
+    text-align: center;
+    background-color: rgb(70, 160, 168);
+    position: absolute;
+    width: 300px;
+    color: white;
+    bottom: 40px;
+    font-size: 20px;
+}
